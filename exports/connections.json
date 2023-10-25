@@ -1,0 +1,12 @@
+{
+    "postgres_db": {
+      "conn_type": "postgres",
+      "description": "",
+      "login": "airflow",
+      "password": "airflow",
+      "host": "host.docker.internal",
+      "port": 5432,
+      "schema": "airflow",
+      "extra": "{}"
+    }
+}

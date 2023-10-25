@@ -1,0 +1,3 @@
+{
+    "OPENAQ_API": "https://api.openaq.org/v2/locations?limit=100&page=1&offset=0&sort=desc&radius=1000&country=ID&city=Jakarta&order_by=lastUpdated&dump_raw=false"
+}
